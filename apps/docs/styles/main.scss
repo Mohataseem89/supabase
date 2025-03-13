@@ -303,7 +303,7 @@ th code {
   transition-timing-function: cubic-bezier(0.24, 0.25, 0.05, 1) !important;
 }
 [data-rmiz-modal-overlay='visible'] {
-  background-color: hsl(var(--background-default)) !important;
+  background-color: hsl(var(bg-default)) !important;
   opacity: 0.8;
 }
 [data-rmiz-modal-img] {
